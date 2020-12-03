@@ -1,4 +1,4 @@
-# Blender-ExternalPaintReloaded
+# Blender External Paint Reloaded
 A Blender 2.8 version for External Paint Autorefresh, An addon that autorefresh in external program with Blender (current work with GIMP)
 ## Original Page: (2.79)
 https://sites.google.com/site/pointatstuffweb/external-paint-autorefresh
