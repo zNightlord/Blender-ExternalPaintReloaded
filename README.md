@@ -7,6 +7,7 @@ https://sites.google.com/site/pointatstuffweb/external-paint-autorefresh
 updated by Zadirion (2.79) and zNight (2.8)**
 
 Current working with Blender and GIMP only. No Adobe Photoshop **possibly** in the future.
+
 use as your own risk :) Still unstable.
 
 ### External Paint Autorefresh is open source under the zlib license
